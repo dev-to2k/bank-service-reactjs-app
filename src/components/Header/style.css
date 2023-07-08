@@ -1,0 +1,20 @@
+.menu-dropdown {
+  width: 100%;
+  background-color: #f2f2f2 !important;
+  max-width: 100% !important;
+  left: 0px !important;
+  top: 94px !important;
+  border-radius: 0px !important;
+  z-index: 9999 !important;
+  display: block !important;
+  transition: opacity 0.5s ease;
+  transform: translate3d(0px, 0px, 0px) !important;
+}
+
+.menu-dropdown ul {
+  display: flex;
+}
+
+.menu-dropdown ul li {
+  flex: 1;
+}

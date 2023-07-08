@@ -1,0 +1,5 @@
+.product-nbat button:hover {
+  background-color: #ae1c3f;
+  color: white;
+  border: 1px solid #ae1c3f !important;
+}

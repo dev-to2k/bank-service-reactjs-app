@@ -1,0 +1,13 @@
+.footer {
+  background-color: #ae1c40;
+  color: #fff;
+  height: 160px;
+}
+
+.footer a {
+  color: #fff !important;
+}
+
+.footer a:hover {
+  color: #eeeeee !important;
+}

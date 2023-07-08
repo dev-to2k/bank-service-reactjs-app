@@ -1,0 +1,13 @@
+.my-slider .swiper-button-prev,
+.my-slider .swiper-button-next {
+  background-color: white;
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+}
+
+.my-slider .swiper-button-prev::after,
+.my-slider .swiper-button-next::after {
+  color: #000;
+  font-size: 12px;
+}
